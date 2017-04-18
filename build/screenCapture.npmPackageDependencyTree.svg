@@ -1,0 +1,15 @@
+<svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="190" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ peer-upnp@0.0.5 </tspan>
+<tspan x="10" y="90">  ├── ejs@0.8.4 </tspan>
+<tspan x="10" y="106">  ├── node-uuid@1.4.0 </tspan>
+<tspan x="10" y="122">  ├── peer-ssdp@0.0.5 </tspan>
+<tspan x="10" y="138">  └─┬ xml2js@0.2.8  (git+https://github.com/fraunhoferfokus/node-xml2js.git#e89c2e85a6f0eb508405\</tspan>
+<tspan x="10" y="154">c0d333c7d2e421c05548)</tspan>
+<tspan x="10" y="170">    └── sax@0.5.8</tspan>
+</text>
+</svg>
